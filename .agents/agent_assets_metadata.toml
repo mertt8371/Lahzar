@@ -1,0 +1,110 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "wWz1mQjH8YQzC3Ixu4BaL"
+uri = "file://artifacts/lahzar-cafe/src/assets/hero.png"
+type = "image"
+title = "Modern Lahmacun cafe hero"
+
+[[generated]]
+id = "xfK3k2IibBsS84bAigN4o"
+uri = "file://artifacts/lahzar-cafe/src/assets/about.png"
+type = "image"
+title = "Fresh Lahmacun being baked"
+
+[[generated]]
+id = "1-4MSvHYve47gnuIn-br2"
+uri = "file://artifacts/lahzar-cafe/src/assets/menu-classic.png"
+type = "image"
+title = "Classic Lahmacun dish"
+
+[[generated]]
+id = "JUxYKIDhSVbGoUGqC_jJq"
+uri = "file://artifacts/lahzar-cafe/src/assets/menu-kebap.png"
+type = "image"
+title = "Lahmacun Kebap dish"
+
+[[generated]]
+id = "F42f-vmxNITgefKPvvADU"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-classic.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "JOPW4Uq5Rgcjla18ldAfM"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-classic-cheese.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "Ay99ZkP8DsV554po9Grw4"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-vegan.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "mx72hqDI8_luIYTalVE1i"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-vegetarisch.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "t8LTvDlV2hqQbO31gQuF5"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-kebab.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "kWL_EiyDAX1mmVOAE97d1"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-chicken.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "Fyq0gd21s-eCEzk3MNYyh"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-a-la-turca.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "vzbZWlK885zDvzUUPskZR"
+uri = "file://artifacts/lahzar-cafe/src/assets/variant-lahzar-special.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "8OmvnxSPlytuJiKWox0oG"
+uri = "file://artifacts/lahzar-cafe/src/assets/gallery-01.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "spN6rAWSxequ6gGyDjz_y"
+uri = "file://artifacts/lahzar-cafe/src/assets/gallery-02.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "KZ1PbNzhiksIUhR8XaPy3"
+uri = "file://artifacts/lahzar-cafe/src/assets/gallery-03.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "K0d2aHTzCOmBMjeBgOt5F"
+uri = "file://artifacts/lahzar-cafe/src/assets/gallery-04.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "N1v1ZGdguZmy1RRay7XKo"
+uri = "file://artifacts/lahzar-cafe/src/assets/gallery-05.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "QamutwZVVK1DfmPMpwa73"
+uri = "file://artifacts/lahzar-cafe/src/assets/gallery-06.png"
+type = "image"
+title = "generated_image"
